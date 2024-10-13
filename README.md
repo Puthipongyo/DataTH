@@ -24,4 +24,6 @@ Automate the data pipeline to Google BigQuery using Google Cloud Composer.
 ### work_shop_6
 Use Looker Studio to create dashboards [here](https://lookerstudio.google.com/s/mcRJOMinW5A).
 
+This is my certificate from this course.
+![](certificate.pdf)
 
